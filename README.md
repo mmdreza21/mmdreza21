@@ -4,7 +4,7 @@
 
 ## The tools and technologies I use
 
-![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=flat&logo=JavaScript&logoColor=F7DF1E)
+<!-- ![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=flat&logo=JavaScript&logoColor=F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=flat&logo=TypeScript&logoColor=3178C6)
 ![Node Js](https://img.shields.io/badge/Node.js-0d1117?style=flat&logo=Node.js&logoColor=339933)
 ![Jest](https://img.shields.io/badge/Jest-0d1117?style=flat&logo=Jest&logoColor=C21325)
@@ -20,7 +20,7 @@
 ![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-0d1117?style=flat&logo=MicrosoftSQLServer&logoColor=CC2927)
 
 ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-0d1117?style=flat&logo=AdobePhotoshop&logoColor=31A8FF)
-![Adobe XD](https://img.shields.io/badge/Adobe%20XD-0d1117?style=flat&logo=AdobeXD&logoColor=FF61F6)
+![Adobe XD](https://img.shields.io/badge/Adobe%20XD-0d1117?style=flat&logo=AdobeXD&logoColor=FF61F6) -->
 <!-- 
 ![Windows](https://img.shields.io/badge/Windows-0d1117?style=flat&logo=Windows&logoColor=0078D6)
 ![Linux](https://img.shields.io/badge/Linux-0d1117?style=flat&logo=Linux&logoColor=FCC624) -->
