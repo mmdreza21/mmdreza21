@@ -4,13 +4,13 @@
 
 ## The tools and technologies I use
 
-<!-- ![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=flat&logo=JavaScript&logoColor=F7DF1E)
+ ![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=flat&logo=JavaScript&logoColor=F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=flat&logo=TypeScript&logoColor=3178C6)
 ![Node Js](https://img.shields.io/badge/Node.js-0d1117?style=flat&logo=Node.js&logoColor=339933)
 ![Jest](https://img.shields.io/badge/Jest-0d1117?style=flat&logo=Jest&logoColor=C21325)
 ![Vue Js](https://img.shields.io/badge/Vue.js-0d1117?style=flat&logo=Vue.js&logoColor=4FC08D)
 ![Nuxt Js](https://img.shields.io/badge/Nuxt.js-0d1117?style=flat&logo=Nuxt.js&logoColor=00C58E)
-![Nest Js](https://img.shields.io/badge/Nest.js-0d1117?style=flat&logo=Nesxt.js&logoColor=00C58E)
+<!--![Nest Js](https://img.shields.io/badge/Nest.js-0d1117?style=flat&logo=Nesxt.js&logoColor=00C58E)
 ![Vuetify Js](https://img.shields.io/badge/Vuetify.js-0d1117?style=flat&logo=Vuetify&logoColor=1867C0)
 
 
