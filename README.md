@@ -1,38 +1,21 @@
-### Hi there 👋
-
-# my name is mohammad reza javadi
-
-## The tools and technologies I use
-
- ![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=flat&logo=JavaScript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=flat&logo=TypeScript&logoColor=3178C6)
-![Node Js](https://img.shields.io/badge/Node.js-0d1117?style=flat&logo=Node.js&logoColor=339933)
-![Jest](https://img.shields.io/badge/Jest-0d1117?style=flat&logo=Jest&logoColor=C21325)
-![Vue Js](https://img.shields.io/badge/Vue.js-0d1117?style=flat&logo=Vue.js&logoColor=4FC08D)
-![Nuxt Js](https://img.shields.io/badge/Nuxt.js-0d1117?style=flat&logo=Nuxt.js&logoColor=00C58E)
-<!--![Nest Js](https://img.shields.io/badge/Nest.js-0d1117?style=flat&logo=Nesxt.js&logoColor=00C58E)
-![Vuetify Js](https://img.shields.io/badge/Vuetify.js-0d1117?style=flat&logo=Vuetify&logoColor=1867C0)
+# 💫 About Me:
+🔭 I’m currently working on full stack development on cycfx.com bitnicak.com<br>🌱 I’m currently learning  linux  and c# and data Structure and so on<br>
 
 
-![C Sharp](https://img.shields.io/badge/C%23-0d1117?style=flat&logo=CSharp&logoColor=239120)
-![.NET Core](https://img.shields.io/badge/.NET%20Core-0d1117?style=flat&logo=.NET&logoColor=512BD4)
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/http://www.linkedin.com/in/mamadreza1998) 
 
-![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-0d1117?style=flat&logo=MicrosoftSQLServer&logoColor=CC2927)
+# 💻 Tech Stack:
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat-square&logo=c-sharp&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=flat-square&logo=chart.js&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=flat-square&logo=angular&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=flat-square&logo=npm&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=flat-square&logo=nestjs&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white) ![NuxtJS](https://img.shields.io/badge/Nuxt-black?style=flat-square&logo=nuxt.js&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=flat-square&logo=socket.io&badgeColor=010101) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=mmdreza21&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=mmdreza21&theme=vue-dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mmdreza21&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-0d1117?style=flat&logo=AdobePhotoshop&logoColor=31A8FF)
-![Adobe XD](https://img.shields.io/badge/Adobe%20XD-0d1117?style=flat&logo=AdobeXD&logoColor=FF61F6) -->
-<!-- 
-![Windows](https://img.shields.io/badge/Windows-0d1117?style=flat&logo=Windows&logoColor=0078D6)
-![Linux](https://img.shields.io/badge/Linux-0d1117?style=flat&logo=Linux&logoColor=FCC624) -->
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=mmdreza21&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
+---
+[![](https://visitcount.itsvg.in/api?id=mmdreza21&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- <details>
-  <summary><b><samp>GitHub Stats</samp></b></summary>
-<a href="https://github.com/mAminP">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mAminP&theme=dark" />
-</a>
-<a href="https://github.com/mAminP">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=mAminP&show_icons=true&count_private=true&include_all_commits=true&theme=dark" /></a>
-<a href="https://github.com/mAminP">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mAminP&theme=dark" />
-</a>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
