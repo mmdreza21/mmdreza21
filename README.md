@@ -8,7 +8,7 @@ I'm a Full-Stack Developer passionate about building modern web applications and
 - 🎮 Currently learning **Unity** and game development
 - 🌱 Deepening my knowledge of **Data Structures & Algorithms**, **Design Patterns**, **Clean Code**, and **Software Architecture**
 - 🚀 Interested in Backend Development, System Design, DevOps, and Game Development
-- 💬 Ask me about **TypeScript, NestJS, Nuxt, Vue, Prisma, PostgreSQL, Docker, and Unity**
+- 💬 Ask me about **TypeScript, JavaScript, React, Vue, Nuxt, NestJS, Prisma, PostgreSQL, Docker, and Unity**
 - 📫 Reach me on **LinkedIn**
 
 ---
@@ -25,12 +25,13 @@ I'm a Full-Stack Developer passionate about building modern web applications and
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+![C%23](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
 ### Frontend
 
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Vue.js](https://img.shields.io/badge/Vue.js-42B883?style=flat-square&logo=vuedotjs&logoColor=white)
 ![Nuxt](https://img.shields.io/badge/Nuxt-00DC82?style=flat-square&logo=nuxt&logoColor=white)
 ![Pinia](https://img.shields.io/badge/Pinia-FFD859?style=flat-square&logo=pinia&logoColor=black)
@@ -71,6 +72,7 @@ I'm a Full-Stack Developer passionate about building modern web applications and
 - System Design
 - Unity Game Development
 - Docker & DevOps
+- React & Next.js
 
 ---
 
@@ -81,18 +83,6 @@ I'm a Full-Stack Developer passionate about building modern web applications and
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mmdreza21&theme=vue-dark&hide_border=true)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mmdreza21&theme=vue-dark&hide_border=true&layout=compact)
-
----
-
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=mmdreza21&theme=discord&no-frame=true&no-bg=true&margin-w=15)
-
----
-
-## 📈 Profile Views
-
-![](https://visitcount.itsvg.in/api?id=mmdreza21&icon=5&color=6)
 
 ---
 
